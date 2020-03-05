@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T11:37:00.682Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vHed6MMZ-MvQFnLH3yMu" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T11:39:51.869Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="-7Zu2iTFqrfyyZZRZ3fE" version="12.7.9" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1485" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="11169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry y="6.15" width="295.7735294117647" height="33.85" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-20" value="联邦.抵税金(最后乘15%=3000)" style="image;html=1;labelBackgroundColor=#99CCFF;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="50" y="1060" width="235" height="207.5" as="geometry" />
+          <mxGeometry x="55" y="1093.75" width="235" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-21" value="RRSP" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="120" height="80" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="330" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-43" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="1010" width="260" height="80" as="geometry" />
+          <mxGeometry x="310" y="1020" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-44" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-43">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -136,13 +136,13 @@
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-49" value="配偶.联邦.免税额(6000)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Waiter_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="55" y="1110" width="50" height="60" as="geometry" />
+          <mxGeometry x="60" y="1143.75" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-53" value="医疗(大于净收入3%部分)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Nurse_Woman_Black_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="165" y="1140" width="60" height="60" as="geometry" />
+          <mxGeometry x="170" y="1173.75" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-55" value="捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="170" y="1060" width="65" height="60" as="geometry" />
+          <mxGeometry x="175" y="1093.75" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-57" value="按阶梯算出(4.7万内是15%)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Stock_Down_128x128.png;rotation=105;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="457" y="890" width="106" height="80.03" as="geometry" />
@@ -151,10 +151,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-58" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="360" y="1106.25" width="80" height="115" as="geometry" />
+          <mxGeometry x="365" y="1140" width="80" height="115" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-60" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="1270" width="260" height="80" as="geometry" />
+          <mxGeometry x="305" y="1303.75" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-60">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-63" value="" style="group;labelBackgroundColor=#CC399B;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="1500" width="260" height="80" as="geometry" />
+          <mxGeometry x="293" y="1630" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-64" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-63">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -178,28 +178,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-66" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="370" y="1365" width="80" height="115" as="geometry" />
+          <mxGeometry x="365" y="1465" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-67" value="其他已经交过的税(如国外)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="105" y="1410" width="80" height="80" as="geometry" />
+          <mxGeometry x="98" y="1540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-69" value="政治捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="150" y="1370" width="65" height="60" as="geometry" />
+          <mxGeometry x="143" y="1500" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-72" value="工作额度(1200)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1180" width="60" height="63" as="geometry" />
+          <mxGeometry x="50" y="1213.75" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-73" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b style=&quot;font-size: 28px&quot;&gt;CRA(一共900)&lt;/b&gt;&lt;/font&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Suit_Man_128x128.png;fillColor=#7EA6E0;fontSize=28;fontColor=#00FF80;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1670" width="144" height="130" as="geometry" />
+          <mxGeometry x="563" y="1800" width="144" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-74" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;本人.联邦.免税额(12000)&lt;/span&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Farmer_Man_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1046.25" width="60" height="60" as="geometry" />
+          <mxGeometry x="75" y="1080" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-75" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1610" width="50" height="70" as="geometry" />
+          <mxGeometry x="543" y="1740" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-76" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="1010" width="260" height="80" as="geometry" />
+          <mxGeometry x="640" y="1020" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-77" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-76">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -211,10 +211,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-80" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="740" y="1112.5" width="80" height="115" as="geometry" />
+          <mxGeometry x="745" y="1146.25" width="80" height="115" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-81" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="1270" width="260" height="80" as="geometry" />
+          <mxGeometry x="635" y="1303.75" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-82" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-81">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -223,7 +223,7 @@
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-84" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="1500" width="260" height="80" as="geometry" />
+          <mxGeometry x="623" y="1630" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-85" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-84">
           <mxGeometry width="260" height="80" as="geometry" />
@@ -244,43 +244,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-87" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="730" y="1370" width="80" height="115" as="geometry" />
+          <mxGeometry x="720" y="1462.5" width="77" height="135" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-90" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;rotation=36;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1600" width="50" height="70" as="geometry" />
+          <mxGeometry x="683" y="1730" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-91" value="按阶梯算出(3.2万内是9.8%,再加上富人税)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Stock_Down_128x128.png;rotation=0;fontSize=15;direction=north;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="695.975" y="864.035" width="80.03" height="106" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-92" value="省.抵税金(最后乘9.8%=1500)" style="image;html=1;labelBackgroundColor=#99FF99;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="935" y="1073.13" width="235" height="207.5" as="geometry" />
+          <mxGeometry x="940" y="1106.88" width="235" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-93" value="配偶.省.免税额(5000)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Waiter_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="990" y="1123.13" width="50" height="60" as="geometry" />
+          <mxGeometry x="995" y="1156.88" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-94" value="医疗(大于净收入3%部分)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Nurse_Woman_Black_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1153.13" width="60" height="60" as="geometry" />
+          <mxGeometry x="1105" y="1186.88" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-95" value="捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1105" y="1073.13" width="65" height="60" as="geometry" />
+          <mxGeometry x="1110" y="1106.88" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-96" value="看护(1200)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1193.13" width="60" height="63" as="geometry" />
+          <mxGeometry x="985" y="1226.88" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-97" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;本人.省.免税额(7000)&lt;/span&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Farmer_Man_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="1059.38" width="60" height="60" as="geometry" />
+          <mxGeometry x="1010" y="1093.13" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-99" value="其他已经交过的税(扣完联邦剩余的)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1420" width="80" height="80" as="geometry" />
+          <mxGeometry x="1013" y="1550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-100" value="政治捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="982.5" y="1330" width="65" height="60" as="geometry" />
+          <mxGeometry x="975.5" y="1460" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-103" value="志愿消防员" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1330" width="60" height="70" as="geometry" />
+          <mxGeometry x="1083" y="1460" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-106" value="低收入减税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_0_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="922.5" y="1420" width="60" height="60" as="geometry" />
+          <mxGeometry x="915.5" y="1550" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-109" value="&lt;div&gt;报税注意:&lt;/div&gt;&lt;div&gt;1. 海外资产的第4类跟国内的信托不一样,不要填,否则拿不出证据&lt;/div&gt;&lt;div&gt;2. 投资损失不能跟工资收入相抵!&lt;/div&gt;&lt;div&gt;3. 投资,如果本金有保证,账面收入不会再亏掉那种,则当年就算收入,不用明细&lt;/div&gt;&lt;div&gt;4. 股票交易/虚拟货币交易,要提供每笔交易流水,不能银行的出入账证明.很浪费时间.&lt;/div&gt;&lt;div&gt;5.海外的交税只能抵扣海外的收入&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#99FF99;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="672.5" y="5" width="560" height="110" as="geometry" />
