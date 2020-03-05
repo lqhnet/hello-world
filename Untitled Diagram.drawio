@@ -1,1 +1,288 @@
-<mxfile host="www.draw.io" modified="2020-03-05T05:46:46.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" version="12.7.9" etag="nDqftzBgrE0YGRZimtm3" type="github"><diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">7ZtRc6I6FMc/jY/tkAQRHhWx29l23anu7nMKETMF4iCt9n76m2hQMFjpvWroqi8lJyEx538S8jvYFnLj5V2KZ9NHFpCoBY1g2UL9FoTARCb/Iyzva4vpOGtDmNJANtoaRvQfIo2GtL7SgMxLDTPGoozOykafJQnxs5INpylblJtNWFQedYZDohhGPo5y6217a/9Dg2wq7cBythXfCA2ncnAbWuuKZ+y/hCl7TeSILYgmq8+6OsZ5X3Kq8ykO2KJgQl4LuSlj2foqXrokEt7NHbe+b7CndjOflCRZnRssI8D2szMxoWWaAcI3cN3DG45eST6F1RfN3nP3LKY0I6MZ9kV5wUOghXrTLI54CfDL1exJIEubCRqikKXsZeNRm1smLMlkAEDRAkc0THjB59+fpKIBjSKXRSxdjY0GXh+CzqarYs3qw2tUF0ivvJE0I8uCSbrkjrCYZOk7byJrEZBy5gFsyIBYbIMB2lLCaSEOTCSNWIZguOl7KwK/kDrU1AQpmnTH46euO1ak4fPLymqU/ZSwhOw4VZoUxwtvUb4murIipkEghulVyb/V3NjVvKhwR5arZFu1kzOpCOP/ryGsqaF1CglNRcJexMIWtCKhV0Df+GUoLr+T9wVLg3lexUcq1FbcMGI+xWLsRxJQvO+2LxUnwPwgTk4QGp26oeGcIjSswztuRFe+L2+fcN+2e3AJfrjJSp1Pu7+inbVpVwhgVggATiFA5ypAp+oBdzYBbEWAEX+8/bjznkaKErwrfgzct7/Uk6Mso1Wx+Rw6hvQGPbPrfKjSCfcv2HZK6rVNVT0A2hXq5cajyuccXj/FB01RiQDPpxuN6j9aeB8z0XO8DAWB3K4P/fBWjEjnJOiKsuheOMi4FQqv6MQUwyQs84WTuC+4SoSfyMVgvJmpRk0pUEDFSj742FwDAPT940hvGuWF2+4gVXrjXKcaUGPr1EoLA9cw1NPNkZdj22kULQB1O3WHP357T1dc+IyIWnEBqHvqgKXxvOL87+Iomt9k7KbrZ5QltbnhAScBTTiCGD9xSPbyxpeKmFODw26Q6AWHPId0SQdXa5fqtZLD5vtfsAJ60SF3eEGB3/ej+/GwseiAnE6/29WFDm3UKHSAampTke3KDkdiB8tuEjtANSWqSK+XHXpnYAe70yh2yM8zRXZ4GI68L3YOPCs5KBJqJQeoppO9GNOo6s0B9zeO6r9p+MPSl0kk3q5eWeHzYaGZFS4wyW3vIr1eVlDTMhengGZWUJMqD16331RQ8AYOaiNdoGCDRoECqpHruILCkUDBsZoECqhGkkXvT5IcxzA+XKdH0IQvq0aRAlITL33v4f7u2/Utw6dU1AoLSE2/eG98dlXvGTa/M7pPntmy/s+TYpxm/C6Xe1L47YoO/yFK9LIDqpGp+dtOrgDsUr1WeEBqXubyJNBLD0hNrLi/RuPhY3N/pWTZPbvt6iIIYDjNQogaKZArQhwJIQA0G8UQavLl59PwcThu7uLtDSzkaHtPCFDnjIuXF7f/8rKqK/xnEfL+BQ==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-05T11:10:55.264Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="p5AOa_uHQkjJBm7s1SGZ" version="12.7.9" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="1485" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="11169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="516" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-2" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="596" y="370" width="64" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-3" target="60da8b9f42644d3a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-3" value="工资" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-5" target="60da8b9f42644d3a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-5" value="投资/房租" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-7" target="60da8b9f42644d3a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-7" value="利息" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-8" target="60da8b9f42644d3a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-8" value="其他(海外)&lt;br&gt;)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="280" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="r8NnEnYyrBjSwJoiBO07-12" vertex="1">
+          <mxGeometry x="11.971830985915492" width="328.0281690140845" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-3" value="总收入(50000)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="r8NnEnYyrBjSwJoiBO07-12" vertex="1">
+          <mxGeometry y="6.15" width="335.21" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="486" y="480" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-15">
+          <mxGeometry x="30.00338028169014" width="289.4366197183098" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-17" value="净收入(40000)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-15">
+          <mxGeometry y="6.15" width="295.7735294117647" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-20" value="联邦.抵税金(最后乘15%=3000)" style="image;html=1;labelBackgroundColor=#99CCFF;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="1060" width="235" height="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-21" value="RRSP" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-23" value="托儿费" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-24" value="投资损失" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="488" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-25" value="搬家" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-22" value="工会年费" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="305" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="516" y="770" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-34" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;arcSize=13;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-33">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-35" value="可税收入(30000)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-33">
+          <mxGeometry y="6.15" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="670" />
+              <mxPoint x="450" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="670" />
+              <mxPoint x="500" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-36" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="596" y="600" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-37" value="军警抵扣" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-38" value="其他年度损失" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-39" value="公司亏损" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-43" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="1010" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-44" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-43">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-45" value="联邦.收入税(4500)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-43">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-49" value="配偶.联邦.免税额(6000)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Waiter_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="55" y="1110" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-53" value="医疗(大于净收入3%部分)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Nurse_Woman_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="165" y="1140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-55" value="捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="1060" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-57" value="按阶梯算出(4.7万内是15%)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Stock_Down_128x128.png;rotation=105;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="457" y="890" width="106" height="80.03" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-58" target="r8NnEnYyrBjSwJoiBO07-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-58" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="1106.25" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-60" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="1270" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-60">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-62" value="联邦.基本税(1500)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-60">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-63" value="" style="group;labelBackgroundColor=#CC399B;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="1500" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-64" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-63">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-65" value="联邦.净税额(500)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-63">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-66" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="1365" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-67" value="其他已经交过的税(如国外)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="105" y="1410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-69" value="政治捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="1370" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-72" value="工作额度(1200)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1180" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-73" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;CRA&lt;/b&gt;&lt;/font&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Suit_Man_128x128.png;fillColor=#7EA6E0;fontSize=28;fontColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="606" y="1660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-74" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;本人.联邦.免税额(12000)&lt;/span&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Farmer_Man_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1046.25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-75" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1610" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-76" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="1010" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-77" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-76">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-78" value="省.收入税(2940)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-76">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-80" target="r8NnEnYyrBjSwJoiBO07-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-80" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="740" y="1112.5" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-81" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="1270" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-82" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-81">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-83" value="省.基本税(1440)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-81">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-84" value="" style="group;labelBackgroundColor=#CC399B;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="1500" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-85" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=13;labelBackgroundColor=#FF66FF;" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-84">
+          <mxGeometry width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-86" value="省.净税额(400)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-84">
+          <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-87" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="730" y="1370" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-90" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;rotation=36;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1600" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-91" value="按阶梯算出(3.2万内是9.8%,再加上富人税)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Stock_Down_128x128.png;rotation=0;fontSize=15;direction=north;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="695.975" y="864.035" width="80.03" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-92" value="省.抵税金(最后乘9.8%=1500)" style="image;html=1;labelBackgroundColor=#99FF99;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="935" y="1073.13" width="235" height="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-93" value="配偶.省.免税额(5000)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Waiter_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="990" y="1123.13" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-94" value="医疗(大于净收入3%部分)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Nurse_Woman_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1153.13" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-95" value="捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1073.13" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-96" value="看护(1200)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1193.13" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-97" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;本人.省.免税额(7000)&lt;/span&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Farmer_Man_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1059.38" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-99" value="其他已经交过的税(扣完联邦剩余的)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="975" y="1420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-100" value="政治捐款" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="1330" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-103" value="志愿消防员" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1330" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-106" value="低收入减税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_0_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="1410" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
