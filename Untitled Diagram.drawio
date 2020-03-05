@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T11:14:51.395Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vB4cie3aFN3j4cvOcX2D" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T11:37:00.682Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vHed6MMZ-MvQFnLH3yMu" version="12.7.9" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1485" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="11169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="516" y="705" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-21">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-22">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-25">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-24">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-2" target="r8NnEnYyrBjSwJoiBO07-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="425" />
@@ -29,7 +29,7 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-3" target="60da8b9f42644d3a-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-3" value="工资" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-3" value="所有工资" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Piggy_Bank_128x128.png" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-5" target="60da8b9f42644d3a-3">
@@ -95,7 +95,7 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-35" value="可税收入(30000)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-33">
           <mxGeometry y="6.15" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-39">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="670" />
@@ -103,10 +103,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-38">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-37">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-36" target="r8NnEnYyrBjSwJoiBO07-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="670" />
@@ -147,7 +147,7 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-57" value="按阶梯算出(4.7万内是15%)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Stock_Down_128x128.png;rotation=105;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="457" y="890" width="106" height="80.03" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-58" target="r8NnEnYyrBjSwJoiBO07-20">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-58" target="r8NnEnYyrBjSwJoiBO07-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-58" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
@@ -171,10 +171,10 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-65" value="联邦.净税额(500)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-63">
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-69">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-67">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-66" target="r8NnEnYyrBjSwJoiBO07-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-66" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
@@ -189,8 +189,8 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-72" value="工作额度(1200)" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="45" y="1180" width="60" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-73" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;CRA&lt;/b&gt;&lt;/font&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Suit_Man_128x128.png;fillColor=#7EA6E0;fontSize=28;fontColor=#00FF80;" vertex="1" parent="1">
-          <mxGeometry x="606" y="1660" width="80" height="80" as="geometry" />
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-73" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 28px&quot;&gt;&lt;b style=&quot;font-size: 28px&quot;&gt;CRA(一共900)&lt;/b&gt;&lt;/font&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Suit_Man_128x128.png;fillColor=#7EA6E0;fontSize=28;fontColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1670" width="144" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-74" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;本人.联邦.免税额(12000)&lt;/span&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Farmer_Man_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="70" y="1046.25" width="60" height="60" as="geometry" />
@@ -207,7 +207,7 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-78" value="省.收入税(2940)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-76">
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-80" target="r8NnEnYyrBjSwJoiBO07-92">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-80" target="r8NnEnYyrBjSwJoiBO07-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-80" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
@@ -231,16 +231,16 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-86" value="省.净税额(400)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="r8NnEnYyrBjSwJoiBO07-84">
           <mxGeometry x="3.660000000000025" y="10" width="256.3370588235294" height="33.85" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-100">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-99">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#00FF80;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-103">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-106">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="r8NnEnYyrBjSwJoiBO07-87" target="r8NnEnYyrBjSwJoiBO07-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-87" value="扣减" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
@@ -279,11 +279,14 @@
         <mxCell id="r8NnEnYyrBjSwJoiBO07-103" value="志愿消防员" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1330" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-106" value="低收入减税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_0_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-106" value="低收入减税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_0_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="1420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r8NnEnYyrBjSwJoiBO07-109" value="&lt;div&gt;报税注意:&lt;/div&gt;&lt;div&gt;1. 海外资产的第4类跟国内的信托不一样,不要填,否则拿不出证据&lt;/div&gt;&lt;div&gt;2. 投资损失不能跟工资收入相抵!&lt;/div&gt;&lt;div&gt;3. 投资,如果本金有保证,账面收入不会再亏掉那种,则当年就算收入,不用明细&lt;/div&gt;&lt;div&gt;4. 股票交易/虚拟货币交易,要提供每笔交易流水,不能银行的出入账证明.很浪费时间.&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#99FF99;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="10" width="560" height="100" as="geometry" />
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-109" value="&lt;div&gt;报税注意:&lt;/div&gt;&lt;div&gt;1. 海外资产的第4类跟国内的信托不一样,不要填,否则拿不出证据&lt;/div&gt;&lt;div&gt;2. 投资损失不能跟工资收入相抵!&lt;/div&gt;&lt;div&gt;3. 投资,如果本金有保证,账面收入不会再亏掉那种,则当年就算收入,不用明细&lt;/div&gt;&lt;div&gt;4. 股票交易/虚拟货币交易,要提供每笔交易流水,不能银行的出入账证明.很浪费时间.&lt;/div&gt;&lt;div&gt;5.海外的交税只能抵扣海外的收入&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#99FF99;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="5" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-110" value="全球收入报税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Earth_globe_128x128.png;fillColor=#7EA6E0;fontSize=20;fontColor=#000000;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="45" y="10" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
