@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T11:12:37.936Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="3nj_vnrTJYbPBMPkCV6d" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T11:14:51.395Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vB4cie3aFN3j4cvOcX2D" version="12.7.9" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1485" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="11169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="400" y="488" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-25" value="搬家" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="230" y="435" width="80" height="80" as="geometry" />
+          <mxGeometry x="235" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-22" value="工会年费" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
           <mxGeometry x="250" y="305" width="80" height="80" as="geometry" />
@@ -281,6 +281,9 @@
         </mxCell>
         <mxCell id="r8NnEnYyrBjSwJoiBO07-106" value="低收入减税" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_0_128x128.png;fillColor=#7EA6E0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="1420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8NnEnYyrBjSwJoiBO07-109" value="&lt;div&gt;报税注意:&lt;/div&gt;&lt;div&gt;1. 海外资产的第4类跟国内的信托不一样,不要填,否则拿不出证据&lt;/div&gt;&lt;div&gt;2. 投资损失不能跟工资收入相抵!&lt;/div&gt;&lt;div&gt;3. 投资,如果本金有保证,账面收入不会再亏掉那种,则当年就算收入,不用明细&lt;/div&gt;&lt;div&gt;4. 股票交易/虚拟货币交易,要提供每笔交易流水,不能银行的出入账证明.很浪费时间.&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#99FF99;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="10" width="560" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
